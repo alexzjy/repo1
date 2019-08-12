@@ -15,4 +15,11 @@ public class Demo {
         i++;
         System.out.println(i);
     }
+
+    public void test2(){
+        String str="";
+        if(str!=null){
+            System.out.println("str: "+str);
+        }
+    }
 }
